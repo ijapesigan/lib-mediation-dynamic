@@ -1,0 +1,9 @@
+---
+title: References
+nocite: |
+  @Deboeck-Preacher-2015
+  @Ryan-Hamaker-2021
+---
+
+::: {#refs}
+:::
